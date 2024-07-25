@@ -51,7 +51,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
 
-            <img src={myImg} className="img-fluid" alt="avatar" />
+            <img src={myImg} className="img-fluid" alt="Haris Waheed Bhatti Blockchain Artificial Intelligence Developer Cryptography" />
 
           </Col>
         </Row>
